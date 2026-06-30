@@ -59,7 +59,8 @@ li {
     align-items:center;
     justify-content:center;
 }
-#about {
+/* About Section */
+#about, #discord {
     padding:48px 0;
     background-color:#f8ffdc;
 
